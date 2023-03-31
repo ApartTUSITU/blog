@@ -1,0 +1,7 @@
+- class_name: 友情链接
+  class_desc: 我的朋友呀
+  link_list:
+    - name: 冷山Blog
+      link: https://www.lengshanyun.top
+      avatar: https://www.lengshanyun.top/logo.png
+      descr: 朋友冷山のBlog！

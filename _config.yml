@@ -5,11 +5,11 @@
 # Site
 title: ApartTUSITU's Blog
 subtitle: ''
-description: 'ApartTUSITU的博客！欢迎访问！'
+description: '欢迎访问空荡荡的博客捏！'
 keywords:
 author: ApartTUSITU
-language: en
-timezone: ''
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
