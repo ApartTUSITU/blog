@@ -210,10 +210,14 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: false
+  enable: true
   QR_code:
-    - link https://s2.loli.net/2023/03/31/mzSwNdUXH4yC9rg.jpg
+    - img: /img/wechat.jpg
+      link:
       text: 微信
+    - img: /img/alipay.jpg
+      link:
+      text: 支付宝
 
 # Post edit
 # Easily browse and edit blog source code online.
