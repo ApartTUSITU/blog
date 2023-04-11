@@ -210,7 +210,7 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   QR_code:
     - link https://s2.loli.net/2023/03/31/mzSwNdUXH4yC9rg.jpg
       text: 微信
