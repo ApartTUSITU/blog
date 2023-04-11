@@ -212,9 +212,9 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    # - img https://s2.loli.net/2023/03/31/mzSwNdUXH4yC9rg.jpg
-    #   link:
-    #   text: 微信
+    - img https://s2.loli.net/2023/03/31/mzSwNdUXH4yC9rg.jpg
+      ink:
+      text: 微信
 
 # Post edit
 # Easily browse and edit blog source code online.
@@ -276,7 +276,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
-  use: # Valine,Disqus
+  use: Waline
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -902,7 +902,7 @@ CDN:
   # The CDN provider of third party scripts (第三方 js 的 cdn 配置)
   # option: local/jsdelivr/unpkg/cdnjs/custom
   # when set it to local, you need to install hexo-butterfly-extjs
-  third_party_provider: jsdelivr
+  third_party_provider: unpkg
 
   # Add version number to CDN, true or false
   version: false
