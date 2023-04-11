@@ -213,7 +213,6 @@ reward:
   enable: true
   QR_code:
     - img https://s2.loli.net/2023/03/31/mzSwNdUXH4yC9rg.jpg
-      ink:
       text: 微信
 
 # Post edit
@@ -327,7 +326,7 @@ valine:
 # waline - A simple comment system with backend support fork from Valine
 # https://waline.js.org/
 waline:
-  serverURL: # 'https://waline.tusitu123.top'
+  serverURL: 'https://waline.tusitu123.top'
   bg: # waline background
   pageview: false
   option:
