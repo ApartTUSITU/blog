@@ -212,7 +212,7 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img https://s2.loli.net/2023/03/31/mzSwNdUXH4yC9rg.jpg
+    - link https://s2.loli.net/2023/03/31/mzSwNdUXH4yC9rg.jpg
       text: 微信
 
 # Post edit
