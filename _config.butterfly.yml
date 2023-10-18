@@ -39,8 +39,9 @@ social:
   fab fa-qq: tencent://message/?uin=3412969657&Site=&Menu=yes
   fab fa-weixin: https://s2.loli.net/2023/04/11/Q42aKhuzrjdJPoy.jpg
   fab fa-bilibili: https://space.bilibili.com/526482389
+  fab fa-youtube: https://youtube.com/@ApartTUSITU
   fab fa-github: https://github.com/ApartTUSITU || Github
-  fas fa-envelope: mailto:tusitu123@outlook.com || Email
+  fas fa-envelope: mailto:aptusitu@outlook.com || Email
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -679,7 +680,7 @@ aside:
       link: https://space.bilibili.com/526482389
   card_announcement:
     enable: true
-    content: ApartTUSITU开了不知道多少遍的博客！官网www.tusitu123.top！
+    content: 个人官网：www.aptusitu.link
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
